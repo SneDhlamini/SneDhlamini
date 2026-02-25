@@ -1,7 +1,7 @@
 ## Hi, I'm Sne 👋
 
 
-Third year BSc in Mathematics and Computer Sciences Student <br>Data Science and Machine Learning <br>Currently working on VisionAssist -an assistive application aimed at improving spatial navigation for visually impaired users.<br>[VisionAssist Repository](https://github.com/SneDhlamini/Vision-Assist)
+Third year BSc in Mathematics and Computer Sciences Student <br>Data Science and Machine Learning <br>Currently working on [VisionAssist](https://github.com/SneDhlamini/Vision-Assist) -an assistive application aimed at improving spatial navigation for visually impaired users.<br>[VisionAssist Repository](https://github.com/SneDhlamini/Vision-Assist)
 
 
 ## 🌐 Contact Me 
