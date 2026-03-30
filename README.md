@@ -1,7 +1,7 @@
 ## Hi, I'm Sne 👋
 
 
-Third year BSc in Mathematics and Computer Sciences Student <br>Data Science and Machine Learning <br>Currently working on [VisionAssist](https://github.com/SneDhlamini/Vision-Assist) -an assistive application aimed at improving spatial navigation for visually impaired users.<br>
+Third year BSc in Mathematics and Computer Sciences Student <br>Data Science and Machine Learning <br>Currently working on [An ATM Assistive Vision System](https://github.com/SneDhlamini/AccessATM) -an AI-powered assistive system designed to help visually impaired users successfully withdraw cash from ATM machines using computer vision, voice guidance and speech recognition.<br>
 
 ## 🌐 Contact Me 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Dhlaminisinenhlanhla27@gmail.com) 
