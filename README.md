@@ -1,8 +1,20 @@
 ## Hi, I'm Sne 👋
 
 
-Third year BSc in Mathematics and Computer Sciences Student <br>Data Science and Machine Learning <br>Currently working on an [ATM Assistive Vision System](https://github.com/SneDhlamini/AccessATM) -an AI-powered assistive system designed to help visually impaired users successfully withdraw cash from ATM machines using computer vision, voice guidance and speech recognition.<br>
+Third year BSc in Mathematics and Computer Sciences Student <br>Data Science and Machine Learning <br>Currently working on an [SA Retail Demand Forecasting Platform](https://github.com/SneDhlamini/SA-Retail-Demand-Forecasting-Platform)) -an AI-powered solution that predicts future product demand by combining historical sales data with South African-specific factors such as weather, load shedding, public holidays, school holidays, and local disruptions. The platform automatically identifies which external factors are relevant to each product and uses advanced time-series and machine learning models to generate accurate, explainable sales forecasts for the upcoming month.<br>
 
+## 🎯 Current Focus
+
+I'm currently learning everything required to take projects from a laptop to production, including:
+
+- Software Architecture
+- Cloud Deployment
+- DevOps and CI/CD
+- Docker & Containerization
+- MLOps
+- Scalable Backend Development
+- System Design
+- Production AI Systems
 ## 🌐 Contact Me 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Dhlaminisinenhlanhla27@gmail.com) 
 
